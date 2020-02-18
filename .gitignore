@@ -10,6 +10,7 @@ xcuserdata/
 *.xccheckout
 
 ## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
+.DS_Store
 build/
 DerivedData/
 *.moved-aside
@@ -45,8 +46,9 @@ playground.xcworkspace
 # Xcode automatically generates this directory with a .xcworkspacedata file and xcuserdata
 # hence it is not needed unless you have added a package configuration file to your project
 # .swiftpm
-
+*.xcworkspacedata
 .build/
+IDEWorkspaceChecks.plist
 
 # CocoaPods
 #

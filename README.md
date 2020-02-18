@@ -1,2 +1,3 @@
 # DSA-Toolbox
-Toolbox of swift data structures and algorithms
+
+Toolbox of Swift data structures and algorithms
